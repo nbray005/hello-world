@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hi Humans!
 
 Nick here, I like turtles!.
